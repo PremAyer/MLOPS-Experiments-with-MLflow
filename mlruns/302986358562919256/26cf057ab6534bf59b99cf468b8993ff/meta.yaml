@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/26cf057ab6534bf59b99cf468b8993ff/artifacts
+end_time: 1765080308496
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: 26cf057ab6534bf59b99cf468b8993ff
+run_name: agreeable-ram-443
+run_uuid: 26cf057ab6534bf59b99cf468b8993ff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080308404
+status: 3
+tags: []
+user_id: hp

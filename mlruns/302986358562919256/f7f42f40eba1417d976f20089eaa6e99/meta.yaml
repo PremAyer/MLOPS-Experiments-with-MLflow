@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/f7f42f40eba1417d976f20089eaa6e99/artifacts
+end_time: 1765080308960
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: f7f42f40eba1417d976f20089eaa6e99
+run_name: enthused-goose-52
+run_uuid: f7f42f40eba1417d976f20089eaa6e99
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080308869
+status: 3
+tags: []
+user_id: hp

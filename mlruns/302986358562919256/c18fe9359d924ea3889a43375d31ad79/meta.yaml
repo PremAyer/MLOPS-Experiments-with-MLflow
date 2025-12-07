@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/c18fe9359d924ea3889a43375d31ad79/artifacts
+end_time: 1765081097746
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: c18fe9359d924ea3889a43375d31ad79
+run_name: overjoyed-crane-383
+run_uuid: c18fe9359d924ea3889a43375d31ad79
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765081070330
+status: 3
+tags: []
+user_id: hp

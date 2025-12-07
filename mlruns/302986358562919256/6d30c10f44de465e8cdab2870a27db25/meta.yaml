@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/6d30c10f44de465e8cdab2870a27db25/artifacts
+end_time: 1765080332307
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: 6d30c10f44de465e8cdab2870a27db25
+run_name: funny-horse-448
+run_uuid: 6d30c10f44de465e8cdab2870a27db25
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080299336
+status: 3
+tags: []
+user_id: hp

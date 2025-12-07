@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/638aec36aae54d2d986385325a85f195/artifacts
+end_time: 1765080309257
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: 638aec36aae54d2d986385325a85f195
+run_name: merciful-stoat-399
+run_uuid: 638aec36aae54d2d986385325a85f195
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080309182
+status: 3
+tags: []
+user_id: hp

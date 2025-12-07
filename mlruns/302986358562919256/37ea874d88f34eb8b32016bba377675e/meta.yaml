@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/37ea874d88f34eb8b32016bba377675e/artifacts
+end_time: 1765080308761
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: 37ea874d88f34eb8b32016bba377675e
+run_name: skillful-snipe-636
+run_uuid: 37ea874d88f34eb8b32016bba377675e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080308631
+status: 3
+tags: []
+user_id: hp

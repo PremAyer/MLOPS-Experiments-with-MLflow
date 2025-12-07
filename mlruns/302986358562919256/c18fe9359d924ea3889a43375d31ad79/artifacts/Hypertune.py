@@ -5,11 +5,6 @@ from sklearn.datasets import load_breast_cancer
 import pandas as pd
 import mlflow
 
-import dagshub
-dagshub.init(repo_owner='premsinghayer270', repo_name='MLOPS-Experiments-with-MLflow', mlflow=True)
-
-mlflow.set_tracking_uri("https://dagshub.com/premsinghayer270/MLOPS-Experiments-with-MLflow.mlflow")
-
 # Load the Breast Cancer dataset
 data = load_breast_cancer()
 X = pd.DataFrame(data.data, columns=data.feature_names)
@@ -44,15 +39,15 @@ grid_search = GridSearchCV(estimator=rf, param_grid=param_grid, cv=5, n_jobs=-1,
 
 mlflow.set_experiment('breast-cancer-rf-hp')
 
-with mlflow.start_run() as parent:
+with mlflow.start_run():
     grid_search.fit(X_train, y_train)
 
     # log all the child runs
-    for i in range(len(grid_search.cv_results_['params'])):
+    # for i in range(len(grid_search.cv_results_['params'])):
 
-        with mlflow.start_run(nested=True) as child:
-            mlflow.log_params(grid_search.cv_results_["params"][i])
-            mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
+    #     with mlflow.start_run(nested=True) as child:
+    #         mlflow.log_params(grid_search.cv_results_["params"][i])
+    #         mlflow.log_metric("accuracy", grid_search.cv_results_["mean_test_score"][i])
 
     # Displaying the best parameters and the best score
     best_params = grid_search.best_params_

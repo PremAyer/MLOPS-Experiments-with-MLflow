@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/9d2c19c77a8a41b4b81e8de93114f7e1/artifacts
+end_time: 1765080308619
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: 9d2c19c77a8a41b4b81e8de93114f7e1
+run_name: clumsy-rat-164
+run_uuid: 9d2c19c77a8a41b4b81e8de93114f7e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080308506
+status: 3
+tags: []
+user_id: hp

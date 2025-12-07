@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/aa79fc5271e74f0c8267c0735eb554f9/artifacts
+end_time: 1765080308862
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: aa79fc5271e74f0c8267c0735eb554f9
+run_name: indecisive-wolf-118
+run_uuid: aa79fc5271e74f0c8267c0735eb554f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080308772
+status: 3
+tags: []
+user_id: hp

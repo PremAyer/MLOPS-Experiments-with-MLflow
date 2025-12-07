@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Git/MLOPS-Experiments-with-MLflow/mlruns/302986358562919256/a3a054b2113c489db346a7bf4533b6ed/artifacts
+end_time: 1765080309173
+entry_point_name: ''
+experiment_id: '302986358562919256'
+lifecycle_stage: active
+run_id: a3a054b2113c489db346a7bf4533b6ed
+run_name: gifted-goat-240
+run_uuid: a3a054b2113c489db346a7bf4533b6ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1765080309081
+status: 3
+tags: []
+user_id: hp
