@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/504963230788080465/39e6027d0bfc4e13acf6917b363d5ae1/artifacts
+end_time: 1764997459125
+entry_point_name: ''
+experiment_id: '504963230788080465'
+lifecycle_stage: active
+run_id: 39e6027d0bfc4e13acf6917b363d5ae1
+run_name: resilient-swan-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764997412648
+status: 3
+tags: []
+user_id: hp

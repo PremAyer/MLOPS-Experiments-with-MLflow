@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/510adaad06dd452ab706afeadb2bf2b9/artifacts
+end_time: 1762978661795
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 510adaad06dd452ab706afeadb2bf2b9
+run_name: lyrical-wolf-811
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762978661683
+status: 3
+tags: []
+user_id: hp

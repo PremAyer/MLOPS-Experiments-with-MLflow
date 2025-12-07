@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/acb4b284659e4060b6a0ead1133f33f2/artifacts
+deleted_time: 1762979039228
+end_time: 1762978177962
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: acb4b284659e4060b6a0ead1133f33f2
+run_name: thoughtful-crane-366
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762978177810
+status: 4
+tags: []
+user_id: hp

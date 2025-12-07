@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/c40a57554518429098037e40d3c88ce0/artifacts
+end_time: 1764914416142
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c40a57554518429098037e40d3c88ce0
+run_name: bouncy-mare-435
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764914415310
+status: 3
+tags: []
+user_id: hp

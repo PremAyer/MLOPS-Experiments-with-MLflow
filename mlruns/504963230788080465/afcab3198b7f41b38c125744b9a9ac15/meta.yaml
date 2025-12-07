@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/504963230788080465/afcab3198b7f41b38c125744b9a9ac15/artifacts
+end_time: 1764996038635
+entry_point_name: ''
+experiment_id: '504963230788080465'
+lifecycle_stage: active
+run_id: afcab3198b7f41b38c125744b9a9ac15
+run_name: funny-fowl-1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764996037187
+status: 3
+tags: []
+user_id: hp

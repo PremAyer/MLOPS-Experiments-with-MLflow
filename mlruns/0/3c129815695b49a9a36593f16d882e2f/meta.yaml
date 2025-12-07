@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/3c129815695b49a9a36593f16d882e2f/artifacts
+end_time: 1762978886821
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3c129815695b49a9a36593f16d882e2f
+run_name: likeable-shrimp-383
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762978886717
+status: 3
+tags: []
+user_id: hp
